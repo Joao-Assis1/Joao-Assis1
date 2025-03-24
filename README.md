@@ -23,7 +23,7 @@ Javascript | NodeJs | ExpressJs | UX | Design | Figma | PostgreSQL | Scrum
 
 ## Stack utilizada
 
-**Front-end:** React, Redux, TailwindCSS
+**Front-end:** JavaScript, Html, Css
 
 **Back-end:** Node, Express
 
