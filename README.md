@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 💻 Eu sou um aprendiz em desenvolvimento fullstack
 
-🧠 Estou aprendendo JavaScript 
+🧠 Estou aprendendo JavaScript, HTML e CSS 
 
 👯‍♀️ Procuro colaborar em desenvolvimento fullstack
 
