@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 💻 Eu sou um aprendiz em desenvolvimento fullstack
 
-🧠 Estou aprendendo JavaScript, HTML e CSS 
+🧠 Estou aprendendo JavaScript, VueJs e NodeJs
 
 👯‍♀️ Procuro colaborar em desenvolvimento fullstack
 
@@ -18,12 +18,12 @@
 
 
 ## 🛠 Habilidades
-Javascript | NodeJs | ExpressJs | UX | Design | Figma | PostgreSQL | Scrum
+Javascript | NodeJs | ExpressJs | VueJs | MongoDB | UX | Design | Figma | PostgreSQL | Scrum
 
 
 ## Stack utilizada
 
-**Front-end:** JavaScript, Html, Css
+**Front-end:** JavaScript, Html, Css, VueJs
 
-**Back-end:** Node, Express
+**Back-end:** Node, Express, MongoDB
 
