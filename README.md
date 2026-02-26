@@ -11,9 +11,6 @@
 
 🤔 Procuro ajuda com pessoas que já tem conhecimento na habilidade que quero aprender
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/joão-vitor-assis-810703317/)
 
 
 
