@@ -1,26 +1,38 @@
+# João Vitor Assis Oliveira Santos
 
-# Olá, eu sou o João Vitor! 👋
+Desenvolvedor Full Stack focado em produtos digitais, automação e soluções inteligentes para negócios.
 
+## 🚀 Tecnologias
 
-## 🚀 Sobre mim
-💻 Eu sou um aprendiz em desenvolvimento fullstack
+- Node.js
+- React
+- Vue.js
+- MongoDB
+- PostgreSQL
+- REST APIs
+- Docker
+- Git
 
-🧠 Estou aprendendo JavaScript, VueJs e NodeJs
+## 💡 Interesses
 
-👯‍♀️ Procuro colaborar em desenvolvimento fullstack
+- Desenvolvimento de software
+- Produtos digitais
+- Automação
+- Inteligência Artificial
+- Soluções para empresas
 
-🤔 Procuro ajuda com pessoas que já tem conhecimento na habilidade que quero aprender
+## 📌 Projetos em destaque
 
+### VELO
+Plataforma para conexão entre alunos e instrutores de direção.
 
+### E-commerce Platform
+Sistema completo para gerenciamento de vendas e produtos.
 
+### Delivery Ecosystem
+Sistema full stack para pedidos e logística.
 
-## 🛠 Habilidades
-Javascript | NodeJs | ExpressJs | VueJs | MongoDB | UX | Design | Figma | PostgreSQL | Scrum
+## 📫 Contato
 
-
-## Stack utilizada
-
-**Front-end:** JavaScript, Html, Css, VueJs
-
-**Back-end:** Node, Express, MongoDB
-
+- LinkedIn: linkedin.com/in/joaovitorassis
+- Email: joaortx123@gmail.com
